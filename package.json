@@ -1,0 +1,24 @@
+{
+  "name": "movie-app-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-graphql": "^0.9.0",
+    "faker": "^4.1.0",
+    "graphql": "^14.5.8",
+    "mongoose": "^5.7.1",
+    "react-apollo": "^3.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  }
+}

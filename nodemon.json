@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USER": "Ula",
+        "MONGO_PASSWORD": "coderscampula",
+        "MONGO_DB": "movie-react-dev"
+    }
+}
